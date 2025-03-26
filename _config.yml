@@ -1,11 +1,11 @@
 title: "Потом придумаю нормальное название"
 author: "sspilberg07"
-description: "Небольшие заметки ." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+description: "Небольшие заметки о потреблённом медиа." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "example@mail.com"
-twitter_username: "sspilberg07"
+#email: "example@mail.com"
+#twitter_username: "sspilberg07"
 #github_username: "githubuser"
 #linkedin_username: "linkedinuser"
 #facebook_username: username
@@ -20,7 +20,7 @@ twitter_username: "sspilberg07"
 #########################################################################################
 theme: "minima"
 
-rss: rss
+#rss: rss
 
 kramdown:
   syntax_highlighter_opts:
